@@ -39,4 +39,4 @@ npm start
 
 6. Open the application in your web browser at `http://localhost:3000`.
 
-Enjoy exploring accommodations with the Airbnb Clone! 🏠
+Enjoy exploring accommodations with the Airbnb Clone. 🏠
